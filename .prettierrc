@@ -1,0 +1,12 @@
+{
+  "htmlWhitespaceSensitivity": "strict",
+  "singleAttributePerLine": true,
+  "overrides": [
+    {
+      "files": "*.js",
+      "options": {
+        "singleQuote": true
+      }
+    }
+  ]
+}
